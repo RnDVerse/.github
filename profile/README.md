@@ -1,7 +1,7 @@
 # RnDVerse
 
 <p align="center">
-  <img src="https://rndverse.com/assets/logo.png" alt="RnDVerse Logo" width="200"/>
+  <img src="https://rndverse.sgp1.cdn.digitaloceanspaces.com/images/RnDVerse_long.png" alt="RnDVerse Logo" width="200"/>
   <h3 align="center">Agentic R&D Intelligence for Everyone</h3>
   <p align="center">Transforming how we discover, analyze, and utilize scientific knowledge</p>
 </p>
